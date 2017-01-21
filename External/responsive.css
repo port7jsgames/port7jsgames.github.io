@@ -1,0 +1,10 @@
+#gameboxwrapper{width:100%;}
+.gamebox{margin:30px calc(50% - 150px); float:none;}
+
+@media screen and (max-width:640px) {
+	
+}
+
+@media screen and (max-width:320px) {
+	
+}
